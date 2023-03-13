@@ -1,0 +1,22 @@
+*, html, body {
+    margin: 4;
+    padding: 4;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: lightgreen;
+}
+
+h2 {
+    border: 4px solid green;
+    border-width: ;
+    color: blue;
+}
+
+.p {
+    color: lightgreen;
+}
